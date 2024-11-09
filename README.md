@@ -1,2 +1,3 @@
 # Solidity-b-sico
 prácticas de Solidity 
+#HOLA, ESTA ES MI PRIMERA PRÁCTICA PARA HACER BLOCKCHAIN, MUCHAS GRACIAS 
